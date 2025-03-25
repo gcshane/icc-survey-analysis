@@ -6,7 +6,7 @@ from collections import Counter
 import string
 
 # Read file
-df = pd.read_csv("./ICC Project Survey (Responses) - Form responses 1.csv")
+df = pd.read_csv("./x   ")
 
 # Column index
 column_index = 22
